@@ -15,6 +15,7 @@ document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
             <div class="logo">ROW X402</div>
           </div>
           <nav class="nav">
+            <a href="https://pump.fun" target="_blank" class="nav-link">$ROWX</a>
             <a href="https://x.com/rowx402" target="_blank" class="nav-link">X</a>
             <a href="https://rowxdocs.rowx402.com/" target="_blank" class="nav-link">DOCS</a>
             <a href="#about" class="nav-link" id="about-link">ABOUT</a>
